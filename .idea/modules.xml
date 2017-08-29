@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///devlink2/dims/.idea/dims.iml" filepath="/devlink2/dims/.idea/dims.iml" />
+      <module fileurl="file:///devlink/getinet/.idea/getinet.iml" filepath="/devlink/getinet/.idea/getinet.iml" />
+      <module fileurl="file:///devlink2/dev/stt/.idea/stt.iml" filepath="/devlink2/dev/stt/.idea/stt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test1.iml" filepath="$PROJECT_DIR$/.idea/test1.iml" />
+    </modules>
+  </component>
+</project>
